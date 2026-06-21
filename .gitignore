@@ -1,0 +1,6 @@
+/.venv
+.build/
+.DS_Store
+*.xcuserdata
+request.curl
+usage.json

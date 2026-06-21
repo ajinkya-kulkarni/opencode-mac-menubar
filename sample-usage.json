@@ -1,0 +1,5 @@
+{
+  "rolling": {"percent": 0, "resetsIn": "4h 49m"},
+  "weekly": {"percent": 2, "resetsIn": "8h 51m"},
+  "monthly": {"percent": 1, "resetsIn": "21d 5h"}
+}
