@@ -1,0 +1,1 @@
+# opencode-mac-menubar
